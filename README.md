@@ -19,8 +19,7 @@ The game was made in MonoGame framework, with my fellow partner Luís Pereira.
 
 
 
-### Estrutura
-As pastas e ficheiros que são utilizados no desenvolvimento do projeto estão estruturados da seguinte maneira:
+### Structure
 
 OMG Zombies/\
 ├── Content/\
